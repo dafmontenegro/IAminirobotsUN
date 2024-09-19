@@ -51,13 +51,14 @@ This Proyect is a built of a interactive creator or Voronoi diagrams, using the 
 The HeatTracker Proyect is designed to paint the places where an object of interest has been, showing the places where it most spent time.
 Designed as a complement of *the pi-tensorflow-lite-object-detection* it analized the data that this proyect recives to show the map of places where the object has been. 
 
- [**Repository**](https://github.com/FabianMontes/HeatTracker)
+[**Repository**](https://github.com/FabianMontes/HeatTracker)
+
 ---
 
 ### [virussimulation](https://github.com/FabianMontes/virussimulation)
 
-This is a Simulation made in NetLogo exposed in the class, 
+This is a Simulation made in NetLogo exposed in the class. The simulation will model how a virus spreads among various patient types, using a grid-based system where each cell represents an individual. The cells follow the rules of **cellular automata**, determining the state of each patient  based on the states of neighboring cells and predefined conditions.
 
-The simulation will model how a virus spreads among various patient types, using a grid-based system where each cell represents an individual. The cells follow the rules of **cellular automata**, determining the state of each patient  based on the states of neighboring cells and predefined conditions.
- [**Repository**](https://github.com/FabianMontes/virussimulation)
+[**Repository**](https://github.com/FabianMontes/virussimulation)
+
 ---
