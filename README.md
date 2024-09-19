@@ -40,6 +40,7 @@ This project builds a real-time object detection system using a Raspberry Pi and
 ---
 
 ### [Voronoi Diagrams](https://github.com/FabianMontes/Voronoi-diagrams)
+This Proyect is a built of a interactive creator or Voronoi diagrams, using the centers given by the user by clicking it draws the desire Voronoi Diagram.
 
 [**Python Notebook**](https://github.com/FabianMontes/Voronoi-diagrams/blob/main/files/diagramas_de_Voronoi.ipynb) | [**P5js**](https://editor.p5js.org/fmontes/full/7I0dh17Iw)
 
@@ -47,8 +48,16 @@ This project builds a real-time object detection system using a Raspberry Pi and
 
 ### [HeatTracker](https://github.com/FabianMontes/HeatTracker)
 
+The HeatTracker Proyect is designed to paint the places where an object of interest has been, showing the places where it most spent time.
+Designed as a complement of *the pi-tensorflow-lite-object-detection* it analized the data that this proyect recives to show the map of places where the object has been. 
+
+ [**Repository**](https://github.com/FabianMontes/HeatTracker)
 ---
 
 ### [virussimulation](https://github.com/FabianMontes/virussimulation)
 
+This is a Simulation made in NetLogo exposed in the class, 
+
+The simulation will model how a virus spreads among various patient types, using a grid-based system where each cell represents an individual. The cells follow the rules of **cellular automata**, determining the state of each patient  based on the states of neighboring cells and predefined conditions.
+ [**Repository**](https://github.com/FabianMontes/virussimulation)
 ---
