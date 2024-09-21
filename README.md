@@ -10,7 +10,7 @@ This is the repository for the course **Artificial Intelligence and Mini Robots*
 
 ## Table Of Contents <!-- omit in toc -->
 - [prisoners-dilemma-cellular-automata](#prisoners-dilemma-cellular-automata)
-- [Gabo RAG Tutorial](#gabo-rag-tutorial)
+- [Gabo RAG](#gabo-rag)
 - [pi-tensorflow-lite-object-detection](#pi-tensorflow-lite-object-detection)
 - [Voronoi Diagrams](#voronoi-diagrams)
 - [HeatTracker](#heattracker)
@@ -25,7 +25,7 @@ A Python project that explores the dynamics of cooperation and competition throu
 
 ---
 
-### [Gabo RAG Tutorial](https://github.com/dafmontenegro/gabo-rag)
+### [Gabo RAG](https://github.com/dafmontenegro/gabo-rag)
 'Gabo' is a RAG (Retrieval-Augmented Generation) system designed to enhance the capabilities of LLMs (Large Language Models) such as 'Llama 3.1' or 'Phi 3.5'. This project honors Colombian author Gabriel García Márquez by marking the tenth anniversary of his death, creating a specialized assistant to answer questions about his work, and using new technologies to further reveal his literary legacy.
 
 [**Repository**](https://github.com/dafmontenegro/gabo-rag) | [**Python Notebook**](https://github.com/dafmontenegro/gabo-rag/blob/master/gabo_rag.ipynb)
